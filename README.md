@@ -3,7 +3,7 @@ bind-fn
 
 [![Build Status](https://secure.travis-ci.org/joshwnj/bind-fn.png)](http://travis-ci.org/joshwnj/bind-fn)
 
-Very small module to making binding functions easier.
+Very small module to make binding functions easier.
 
 Eg. instead of repeating the context in
 
