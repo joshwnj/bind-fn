@@ -1,0 +1,25 @@
+{
+  "name": "bind-fn",
+  "version": "1.0.0",
+  "description": "Very small module to making binding functions easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshwnj/bind-fn.git"
+  },
+  "keywords": [
+    "bind"
+  ],
+  "author": "joshwnj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshwnj/bind-fn/issues"
+  },
+  "homepage": "https://github.com/joshwnj/bind-fn",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}
